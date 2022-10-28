@@ -10,9 +10,8 @@ Email: hal.hasmad@gmail.com
 
 ### Picture:
 
-![IMG_5059](https://user-images.githubusercontent.com/78009211/198646633-724bb2ae-ba6f-43d0-b7eb-7394a5c02f27.JPG)
 
-<img src="[url-to-image](https://user-images.githubusercontent.com/78009211/198646633-724bb2ae-ba6f-43d0-b7eb-7394a5c02f27.JPG)" width="48">
+<img src="https://user-images.githubusercontent.com/78009211/198646633-724bb2ae-ba6f-43d0-b7eb-7394a5c02f27.JPG" width="150">
 
 
 
